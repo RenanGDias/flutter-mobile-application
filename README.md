@@ -20,8 +20,8 @@ Este repositório contém o código-fonte desenvolvido ao longo das 3 aulas da I
   - `AppColor`: definição de paleta de cores
   - `AppTheme`: configuração global de estilo
 
-🔗 [Link do projeto completo]  
-🔗 [Link do Figma]  
+🔗 [Link do projeto completo](https://github.com/alura-cursos/flutter_techtaste)  
+🔗 [Link do Figma](www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imersão?node-id=7-47&p=f&t=TWIDMIpkK0jC2ChI-0)
 🔗 [analysis_options.yaml]  
 🔗 [Pasta de assets]
 
@@ -42,8 +42,8 @@ Este repositório contém o código-fonte desenvolvido ao longo das 3 aulas da I
   - `RestaurantData` para carregar os dados do JSON
 - Gerenciamento de estado com `Provider` para exibir os restaurantes dinamicamente
 
-🔗 [Link do projeto completo]  
-🔗 [Link do Figma]
+🔗 [Link do projeto completo](https://github.com/alura-cursos/flutter_techtaste)  
+🔗 [Link do Figma](www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imersão?node-id=7-47&p=f&t=TWIDMIpkK0jC2ChI-0)
 
 ---
 
@@ -60,8 +60,8 @@ Este repositório contém o código-fonte desenvolvido ao longo das 3 aulas da I
 - Modularização da `AppBar` com `Badge` de contagem
 - Tela de **Checkout** com totalização e listagem dos itens
 
-🔗 [Link do projeto completo]  
-🔗 [Link do Figma]
+🔗 [Link do projeto completo](https://github.com/alura-cursos/flutter_techtaste)
+🔗 [Link do Figma](www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imersão?node-id=7-47&p=f&t=TWIDMIpkK0jC2ChI-0)
 
 ---
 
