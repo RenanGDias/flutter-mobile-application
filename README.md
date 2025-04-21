@@ -24,6 +24,7 @@ Este repositório contém o código-fonte desenvolvido ao longo das 3 aulas da I
 🔗 [Link do Figma](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f)
 🔗 [analysis_options.yaml]  
 🔗 [Pasta de assets]
+🔗 [Guia de mergulho](https://grupoalura.notion.site/Imers-o-Mobile-Guia-de-Mergulho-1ba379bdd09b80e3ac18c8512f31530d?pvs=4)
 
 ---
 
